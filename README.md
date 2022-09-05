@@ -6,7 +6,7 @@ reverse shell is the act of accessing a shell remotely and confidentially.
 ```
 ncat -lvp 4444
 ```
-start the file <a href="https://github.com/brUc3r/revshell_ruby/blog/main/main.rb">main.rb</a> on target machine
+start the file <a href="https://github.com/brUc3r/revshell_ruby/blob/main/main.rb">main.rb</a> on target machine
 with these parameters:
 
 ```python
